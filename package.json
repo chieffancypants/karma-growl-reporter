@@ -17,7 +17,7 @@
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
   "dependencies": {
-    "growly": "~1.1.0"
+    "growl": "~1.7.0"
   },
   "peerDependencies": {
     "karma": ">=0.9"
